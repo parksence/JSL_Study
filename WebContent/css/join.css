@@ -1,0 +1,70 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+body{
+	font-family:Nanum Barun Gothic; 
+	background:#ccc url('/images/main.jpg');
+	background-size:100%;
+	width:100%;
+	height:100%;
+	text-align:center;
+}
+#back{
+	border-style:solid #848484;
+	width:550px;
+	height:790px;
+	background:#F2F2F2;
+	margin-left:500px;
+}
+.all .c_id{
+	width:318px;
+	height:45px;
+	margin-bottom:30px;
+	padding:10px;
+	margin:10px;
+}
+.all .c_id_1{
+	width:70px;
+	height:45px;
+}
+.all .c_password{
+	width:400px;
+	height:45px;
+	margin-bottom:30px;
+	padding:10px;
+	margin:10px;
+}
+.all .c_name{
+	width:400px;
+	height:45px;
+	margin-bottom:30px;
+	padding:10px;
+	margin:10px;
+}
+.all .c_sex{
+	width:400px;
+	height:45px;
+	margin-bottom:30px;
+	padding:10px;
+	margin:10px;
+}
+.all .c_bd{
+	width:123.7px;
+	height:45px;
+	margin-bottom:30px;
+	padding:10px;
+	margin:5px;
+}
+.all .c_phone{
+	width:123.7px;
+	height:45px;
+	margin-bottom:30px;
+	padding:10px;
+	margin:5px;
+}
+.c_id_2{
+	width:400px;
+	height:45px;
+	margin:20px;
+	padding:10px;
+}
